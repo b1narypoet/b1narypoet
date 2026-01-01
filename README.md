@@ -1,1 +1,1 @@
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=b1narypoet)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=b1narypoet&show_icons=true&theme=buefy)](https://github.com/pranesh-2005/github-readme-stats-fast)
